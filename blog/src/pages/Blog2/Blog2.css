@@ -1,0 +1,49 @@
+.blog2Title {
+    text-align: center;
+    padding-top: 70px;
+    font-size: 45px;
+    margin: 0;
+}
+
+.postedOn2 {
+    font-size: 15px;
+    font-style: italic;
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
+
+.Image_blog2 {
+    padding: 10px 30px;
+    width: 500px;
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    display: block;
+}
+
+.intro_blog2 {
+    padding: 0 10%;
+    text-align: justify;
+    margin: auto;
+}
+
+.bookImage {
+    padding-top: 5%;
+    padding-left: 7%;
+    width: 200px;
+    height: 300px;
+}
+
+.bookDesc {
+    text-align: justify;
+    padding-bottom: 5%;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+.bookInfo {
+    display: flex;
+    padding: 25px 0;
+}

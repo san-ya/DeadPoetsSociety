@@ -1,0 +1,21 @@
+.Tip {
+    display: flex;
+    padding: 0 45px;
+}
+
+.postTip {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.836);
+    padding-left: 30px;
+    padding-top: 80px;
+    text-align: justify;
+}
+
+.tipTitle {
+    font-size: 30px;
+    font-family: 'Truculenta', sans-serif;
+}
+
+h1 {
+    font-size: 45px;
+}

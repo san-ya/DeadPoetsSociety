@@ -1,0 +1,34 @@
+.blog1Title {
+    text-align: center;
+    padding-top: 70px;
+    font-size: 45px;
+    margin: 0;
+}
+
+.postedOn1 {
+    font-size: 15px;
+    font-style: italic;
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
+
+.Image_blog1 {
+    padding: 40px 100px;
+    width: 100%;
+    height: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+}
+
+.intro p{
+    padding-bottom: 3%;
+    text-align: justify;
+    padding-right: 7%;
+    padding-left: 7%;
+}
+
+.intro {
+    border-bottom: 1.5px solid rgb(204, 204, 204);
+}

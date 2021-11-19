@@ -1,0 +1,42 @@
+.header {
+    overflow: hidden;
+    display: flex;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    justify-content: space-between;
+    left: 0;
+    padding: 0 6px;
+}
+
+.headerContents a {
+    display: inline-block;
+    margin: 0 30px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+    padding-top: 5px;
+}
+
+.headerContents a:hover {
+    color: #c3d0e4;
+}
+
+.socMedia a:hover {
+    color: #c3d0e4;
+}
+
+.socMedia {
+    display: inline-block;
+    font-size: 30px;
+    color: black;
+    margin: 0 30px;
+}
+
+.socMedia a {
+    padding-right: 15px;
+    text-decoration: none;
+    color: white;
+}

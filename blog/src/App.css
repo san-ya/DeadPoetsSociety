@@ -1,0 +1,10 @@
+body {
+    /*background: #189AB4;*/
+    background: #F4D772;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.App {
+    width: 95%;
+    margin: 0 auto;
+}

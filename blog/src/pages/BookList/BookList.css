@@ -1,0 +1,22 @@
+.bookTitle {
+    font-family: 'Truculenta', sans-serif;
+    font-size: 30px;
+    margin: 0;
+}
+
+.bookImages {
+    width: 350px;
+    height: 250px;
+    padding-left: 30%;
+    padding-right: 10%;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.testing123 {
+    display: flex;
+}
+
+.line {
+    padding-top: 5%;
+}

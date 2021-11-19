@@ -1,0 +1,36 @@
+.blog4Title {
+    text-align: center;
+    padding-top: 70px;
+    font-size: 45px;
+    margin: 0;
+}
+
+.postedOn4 {
+    font-size: 15px;
+    font-style: italic;
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
+
+.Image_blog4 {
+    padding: 30px 0;
+    width: 70%;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.text_blog4 p {
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: 0;
+    padding-bottom: 4px;
+    text-align: justify;
+}
+
+.text p {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.836);
+}
