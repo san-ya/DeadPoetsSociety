@@ -9,3 +9,15 @@
     text-align: center;
     padding-top: 20px;
 }
+
+.disclaimer {
+    text-align: center;
+}
+
+.disclaimer a {
+    text-decoration: none;
+}
+
+.disclaimer a:hover {
+    color: hotpink;
+}
