@@ -12,7 +12,7 @@ const Header = props => {
             </nav>
             <div className = "socMedia">
                 <span><a href = "https://www.github.com/san-ya"><FaGithub href = "https://www.github.com/san-ya" /></a></span>
-                <span><a href = "https://www.linkedin.com/in/sanya-b-7a99341bb/"><FaLinkedinIn /></a></span>
+                <span><a href = "https://linkedin.com/in/bansal-sanya/"><FaLinkedinIn /></a></span>
             </div>
         </header>
     )
