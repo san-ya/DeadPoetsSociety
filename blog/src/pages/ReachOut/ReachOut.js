@@ -69,7 +69,7 @@ function ReachOut() {
 
     return (
         <>
-        <p className = "finalComponent">Hello, thanks a lot for taking the time out to read my blog and for trying to reach out to me! I'm very grateful for that :)</p>
+        <p className = "finalComponent">Thanks for reading my blog and reaching out to me :)</p>
         <MuiThemeProvider>
             <div style = {{margin: "70px auto", maxWidth: "450px"}}>
                 <TextField

@@ -3,7 +3,7 @@ import './App.css';
 import Header from './components/Header/Header.js';
 import Home from "./pages/Home/Home";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import ReachOut from "./pages/ReachOut/ReachOut";
+import ReachOut from "./pages/ReachOut/ReachOut.js";
 import Footer from './components/Footer/Footer.js';
 import Blog1 from "./pages/Blog1/Blog1.js";
 import Blog2 from "./pages/Blog2/Blog2";
