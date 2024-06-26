@@ -7,12 +7,8 @@ const Icon = props => {
             <div className = "icon">
                 Welcome to my blog!
             </div>
-            <div className = "author">
-                <div>by</div>
-                SANYA BANSAL
-            </div>
             <p className="disclaimer">
-                DISCLAIMER! All dummy text has been taken from - <a href="https://www.bustle.com/bustle-book-club">Bustle Book Club</a>
+                DISCLAIMER: Source of content - <a href="https://www.bustle.com/bustle-book-club">Bustle Book Club</a>
             </p>
         </>
     )
